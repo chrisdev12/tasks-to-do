@@ -1,0 +1,30 @@
+{
+  "name": "tareas-por-hacer-app",
+  "version": "1.0.0",
+  "description": "App to schedule regular tasks in NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisdev12/tasks-to-do.git"
+  },
+  "keywords": [
+    "Tasks",
+    "Scheduler",
+    "NodeJs"
+  ],
+  "author": "Chrisdev12",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisdev12/tasks-to-do/issues"
+  },
+  "homepage": "https://github.com/chrisdev12/tasks-to-do#readme",
+  "dependencies": {
+    "yargs": "^15.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
