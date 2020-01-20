@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/chrisdev12/tasks-to-do#readme",
   "dependencies": {
+    "colors": "^1.4.0",
     "yargs": "^15.1.0"
   },
   "devDependencies": {
